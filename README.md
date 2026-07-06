@@ -16,7 +16,7 @@
 
 1. Установите [Tampermonkey](https://www.tampermonkey.net/) в свой браузер
 2. После установки в настройках расширений браузера в расширении менеджера скриптов tampermonkey включите ***Разрешить пользовательские скрипты***
-3. Перейдите по ссылке на скрипт: [УСТАНОВИТЬ](https://jollanxd.github.io/Translat/Anilist_Russian.user.js)
+3. Перейдите по ссылке на скрипт: [УСТАНОВИТЬ](https://github.com/JollanXD/ANILIST-Translat/raw/refs/heads/main/docs/Anilist_Russian.user.js)
 4. Нажмите **УСТАНОВИТЬ** в Tampermonkey.
 5. Перейдите на AniList и наслаждайтесь переводом!
 
